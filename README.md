@@ -1,1 +1,3 @@
-# CE302
+#CE302 
+
+Meu primeiro Readme.
